@@ -1,0 +1,47 @@
+#head{
+/*align head*/
+	text-align: center;
+}
+img{
+	width: 800px;
+	height: 600px;
+/*center image	*/
+	display: block;
+	margin: 0 auto;
+}
+#quote{
+/*allign caption under image*/
+	text-align: center;
+/*make caption italic*/
+	font-style: italic;
+	font-family: 'Asar', serif;
+	font-size: 21px;
+}
+h3{
+	font-family: 'Russo One', sans-serif;
+}
+h1{
+	font-family: 'Bangers', cursive;
+	font-size: 90px;
+}
+#paragraph{
+	font-family: 'Kreon', serif;
+}
+body{
+	background-color: #ebebe0;
+}
+#caption{
+	font-family: 'Baloo Da', cursive;
+	font-size: 20px;
+}
+.glove{
+	width: 400px;
+	height: 400px;
+	display: block;
+	margin: 100px auto;
+}
+#bottom{
+	text-align: center;
+	font-family: 'Chela One', cursive;
+	font-size: 20px;
+}
